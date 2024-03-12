@@ -20,20 +20,20 @@ This project demonstrates the creation of a complete application in Java, using 
 # Funcionalities:
 
 
-## Transaction Management: <span class="no-underline"></span>
+**Transaction Management:**
 
 
 - Making payments.
 - Querying transaction history.
 - Cancelling transactions (optional).
 
-## Balance Control: <span class="no-underline"></span>
+**Balance Control:**
 
 
 - Querying available balance.
 - Adding balance (optional).
 
-## User Authentication: <span class="no-underline"></span>
+**User Authentication:**
 
 
 - Creation of new users (optional).
