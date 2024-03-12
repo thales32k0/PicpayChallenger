@@ -1,4 +1,4 @@
-### Java Picpay
+# Java Picpay
 
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,16 +19,23 @@ This project demonstrates the creation of a complete application in Java, using 
 - H2 Database: in-memory database, ideal for testing and rapid development.
 # Funcionalities:
 
+
 ## Transaction Management: <span class="no-underline"></span>
+
+
 - Making payments.
 - Querying transaction history.
 - Cancelling transactions (optional).
 
 ## Balance Control: <span class="no-underline"></span>
+
+
 - Querying available balance.
 - Adding balance (optional).
 
 ## User Authentication: <span class="no-underline"></span>
+
+
 - Creation of new users (optional).
 
 ## For Developers <span class="no-underline"></span>
