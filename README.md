@@ -1,4 +1,4 @@
-## Java Picpay
+# Java Picpay
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -20,7 +20,7 @@ This project demonstrates the creation of a complete application in Java, using 
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
 
-# Funcionalities:
+## Funcionalities:
 
 
 **Transaction Management:**
