@@ -18,7 +18,7 @@ This project demonstrates the creation of a complete application in Java, using 
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
 # Funcionalities
----
+
 
 ## Transaction Management:
 - Making payments.
