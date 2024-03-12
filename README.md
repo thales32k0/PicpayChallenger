@@ -1,4 +1,5 @@
-### Java Picpay 
+### Java Picpay
+
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -17,33 +18,39 @@ This project demonstrates the creation of a complete application in Java, using 
 - RESTful API: communication interface with the application, following the best practices of REST architecture.
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
-# Funcionalities: <span class="no-underline"></span> h1.no-underline {
-  border-bottom: none;
-}
+# Funcionalities <span class="no-underline"></span>
 
 
 ## Transaction Management: <span class="no-underline"></span>
 - Making payments.
 - Querying transaction history.
-- Cancelling transactions.
-  
+- Cancelling transactions (optional).
+
 ## Balance Control: <span class="no-underline"></span>
 - Querying available balance.
-- Adding balance.
-## User Authentication: <span class="no-underline"></span>
-- Creation of new users.
+- Adding balance (optional).
 
-## For developers <span class="no-underline"></span>
-Java developers who want to improve their skills with JPA, Spring Web, and RESTful APIs.
-Computer Science students looking for a complete project for study and learning.
-Professionals who want to implement the PicPay challenge solution in Java.
+## User Authentication: <span class="no-underline"></span>
+- Creation of new users (optional).
+
+## For Developers <span class="no-underline"></span>
+
+This project is beneficial for:
+
+* Java developers who want to improve their skills with JPA, Spring Web, and RESTful APIs.
+* Computer Science students looking for a complete project for study and learning.
+* Professionals who want to implement the PicPay challenge solution in Java.
+
 Access the source code and contribute!
 
 Keywords: Java, JPA, Spring Web, RESTful API, H2 Database, PicPay Challenge, transactions, balance, authentication, unit tests, performance, security.
 
-Developers: "I used this project as a basis to develop my own payment application in Java."
-Students: "This project helped me to better understand the concepts of JPA, Spring Web, and RESTful APIs."
-Professionals: "I was able to implement the PicPay challenge solution quickly with this project."
+**Examples of Use:**
 
-### Developer 
- [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
+* Developers: "I used this project as a basis to develop my own payment application in Java."
+* Students: "This project helped me to better understand the concepts of JPA, Spring Web, and RESTful APIs."
+* Professionals: "I was able to implement the PicPay challenge solution quickly with this project."
+
+### Developer
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
