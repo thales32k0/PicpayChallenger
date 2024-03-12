@@ -17,9 +17,7 @@ This project demonstrates the creation of a complete application in Java, using 
 - RESTful API: communication interface with the application, following the best practices of REST architecture.
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
-# Funcionalities
---
-
+# Funcionalities:
 ## Transaction Management:
 - Making payments.
 - Querying transaction history.
