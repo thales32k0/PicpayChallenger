@@ -17,19 +17,20 @@ This project demonstrates the creation of a complete application in Java, using 
 - RESTful API: communication interface with the application, following the best practices of REST architecture.
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
-# Funcionalities:
-## Transaction Management:
+# Funcionalities: <span class="no-underline"></span>
+
+## Transaction Management: <span class="no-underline"></span>
 - Making payments.
 - Querying transaction history.
 - Cancelling transactions.
   
-## Balance Control:
+## Balance Control: <span class="no-underline"></span>
 - Querying available balance.
 - Adding balance.
-## User Authentication:
--Creation of new users.
+## User Authentication: <span class="no-underline"></span>
+- Creation of new users.
 
-## For developers
+## For developers <span class="no-underline"></span>
 Java developers who want to improve their skills with JPA, Spring Web, and RESTful APIs.
 Computer Science students looking for a complete project for study and learning.
 Professionals who want to implement the PicPay challenge solution in Java.
