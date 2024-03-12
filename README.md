@@ -17,7 +17,6 @@ This project demonstrates the creation of a complete application in Java, using 
 - Spring Web: development of RESTful APIs with a focus on simplicity and flexibility.
 - RESTful API: communication interface with the application, following the best practices of REST architecture.
 - H2 Database: in-memory database, ideal for testing and rapid development.
-
 # Funcionalities <span class="no-underline"></span>
 ## Transaction Management: <span class="no-underline"></span>
 - Making payments.
