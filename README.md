@@ -18,16 +18,18 @@ This project demonstrates the creation of a complete application in Java, using 
 - H2 Database: in-memory database, ideal for testing and rapid development.
 
 # Funcionalities
+---
+
 ## Transaction Management:
 - Making payments.
 - Querying transaction history.
 - Cancelling transactions.
+  
 ## Balance Control:
 - Querying available balance.
 - Adding balance.
-- User Authentication:
-## Creation of new users.
-- Highlights:
+## User Authentication:
+-Creation of new users.
 
 ## For developers
 Java developers who want to improve their skills with JPA, Spring Web, and RESTful APIs.
