@@ -48,8 +48,6 @@ This project is beneficial for:
 
 Access the source code and contribute!
 
-Keywords: Java, JPA, Spring Web, RESTful API, H2 Database, PicPay Challenge, transactions, balance, authentication, unit tests, performance, security.
-
 **Examples of Use:**
 * Developers: "I used this project as a basis to develop my own payment application in Java."
 * Students: "This project helped me to better understand the concepts of JPA, Spring Web, and RESTful APIs."
